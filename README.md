@@ -1,30 +1,3 @@
-<h1><ul><b>
-   Project: Scoop-Sustain
-</b></ul></h1>
-<p align="center">
-  <br />
-  <img width="650" src="./public/global/" alt="Logo">
-  <br />
-</p>
-
- <p svg align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&pause=3000&color=2FA4D7&center=true&vCenter=true&width=375&lines=Support+Independent+Journalist+&+Artist" alt=typing>
- </p>
-
-<p align="center">
-Project version updated for Next.js 13.4.8 [This project will be maintained to remain current with Next.js @latest until otherwise noted.] This is ready to use in its current state project is set up with Jest and React Testing Library for code testing, it has been configured to work with type script. Custom imports have been set up but are currently not working within the testing enviroment. Eslint settings still a WOP refining the configs for Jest & Testing Library as well as Typescript. Uses ESLint to parse to Typescript. Sets specific rules for for testing envrioment (files within the **tests** directory or files with names ending in .spec.js, .test.js, .ts, .jsx, or .tsx). Lots of rule modifications I collected from a few other react projects. Configured Import Resolver to handle custom import settings.
-<br />
-
-[Demo Video](https://www.youtube.com/watch?v=ZtPs9kD9ExY) <br /> <a href="https://github.com/vercel/next.js"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js badge"> </a> <a href="https://github.com/microsoft/TypeScript"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript badge"> </a> <a href="https://github.com/tailwindlabs/tailwindcss"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind badge"> </a> <br />
-
-</p>
-
-<h2><ul><b>Live Project</b></ul></h2>
-
-<a href="https://www.stevenwatkinsphotography.com/" target="blank"><img align="center" src="./public/global/SW-Photog.png" alt="logo" height="55" width="250" /></a>
-
-[Demo Link](https://scoop-sustain.vercel.app/)
-
 # Features
 
 ## Environment
